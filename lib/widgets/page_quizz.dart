@@ -67,7 +67,7 @@ class _PageQuizzState extends State<PageQuizz> {
     Question('La capitale de la Guinee Equatorial est Bata', false,'', 'equatorial.png'),
     Question('La capitale du Comores est Domoni', false,'', 'comores.png'),
     Question('La capitale du Burundi est Bujumbura', true,'', 'burundi.png'),
-    Question('La capitale du Malawi est Lilongwe', false,'', 'malawi.png'),
+    Question('La capitale du Malawi est Lilongwe', true,'', 'malawi.png'),
   ];
   int index = 0;
   int score = 0;
